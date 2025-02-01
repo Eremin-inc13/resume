@@ -2,4 +2,4 @@
 
 ## Результат Вы можете посмотреть тут:
 
-[моя первая работа на HTML & СSS] (https://eremin-inc13.github.io/resume/)
+[Моя первая работа на HTML & СSS](https://eremin-inc13.github.io/resume/)
